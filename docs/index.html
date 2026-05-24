@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎭 全球歌剧院演出日报</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fafafa;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1 { color: #2c3e50; border-bottom: 3px solid #e74c3c; padding-bottom: 10px; }
+        .card {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin: 20px 0;
+        }
+        .stats { display: flex; gap: 15px; flex-wrap: wrap; }
+        .stat {
+            background: #fff;
+            border-radius: 8px;
+            padding: 15px;
+            flex: 1;
+            min-width: 150px;
+            text-align: center;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .stat-number { font-size: 2em; font-weight: bold; color: #e74c3c; }
+        .stat-label { color: #7f8c8d; font-size: 0.9em; }
+        a { color: #3498db; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .nav { margin: 20px 0; }
+        .nav a { margin-right: 10px; padding: 10px 20px; background: #3498db; color: white; border-radius: 5px; display: inline-block; }
+        .nav a:hover { background: #2980b9; text-decoration: none; }
+        .footer { margin-top: 40px; color: #95a5a6; font-size: 0.9em; text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>🎭 全球歌剧院演出日报</h1>
+    <p>每日自动收集全球各大歌剧院的演出排期与艺术家信息</p>
+
+    <div class="nav">
+        <a href="daily/latest.md">📄 今日日报</a>
+        <a href="https://github.com/lishw/opera-daily">📦 GitHub 仓库</a>
+    </div>
+
+    <div class="stats">
+        <div class="stat">
+            <div class="stat-number">10</div>
+            <div class="stat-label">覆盖歌剧院</div>
+        </div>
+        <div class="stat">
+            <div class="stat-number">🌍</div>
+            <div class="stat-label">全球 8 国</div>
+        </div>
+        <div class="stat">
+            <div class="stat-number">📅</div>
+            <div class="stat-label">每日更新</div>
+        </div>
+        <div class="stat">
+            <div class="stat-number">🆓</div>
+            <div class="stat-label">完全免费</div>
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>覆盖剧院</h2>
+        <ul>
+            <li>🇺🇸 纽约大都会歌剧院</li>
+            <li>🇮🇹 米兰斯卡拉歌剧院</li>
+            <li>🇦🇹 维也纳国家歌剧院</li>
+            <li>🇫🇷 巴黎歌剧院</li>
+            <li>🇬🇧 英国皇家歌剧院</li>
+            <li>🇩🇪 拜罗伊特节日剧院</li>
+            <li>🇦🇺 悉尼歌剧院</li>
+            <li>🇨🇳 中国国家大剧院</li>
+            <li>🇦🇹 萨尔茨堡音乐节</li>
+            <li>🇪🇸 马德里皇家剧院</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>关于本工具</h2>
+        <p>本工具每日通过 GitHub Actions 自动运行，爬取全球十大知名歌剧院的演出排期信息，生成结构化日报。</p>
+        <p><strong>技术栈：</strong> Python + BeautifulSoup + GitHub Actions + GitHub Pages</p>
+        <p><strong>数据仅供参考</strong>，请以各剧院官网为准。</p>
+    </div>
+
+    <div class="footer">
+        <p>Built with ❤️ | <a href="https://github.com/lishw/opera-daily">GitHub</a></p>
+    </div>
+</body>
+</html>
