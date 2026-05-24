@@ -4,47 +4,66 @@ on:
   schedule:
     # 每天 UTC 00:00 = 北京时间 08:00
     - cron: '0 0 * * *'
-  workflow_dispatch:  # 允许手动触发
-  push:
-    branches: [main]
+  workflow_dispatch:
 
 permissions:
   contents: write
   pages: write
   id-token: write
 
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
   crawl-and-report:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      PYTHONIOENCODING: utf-8
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
+        id: setup-python
         with:
-          python-version: '3.11'
+          python-version: '3.12'
           cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements.txt --no-cache-dir
+
+      - name: Debug - show pip list
+        run: pip list
 
       - name: Run crawlers & generate report
         run: |
-          python orchestrator.py
-        continue-on-error: true  # 即使部分爬虫失败也继续
+          python run_local.py
+        continue-on-error: true
+
+      - name: Debug - check generated files
+        run: |
+          echo "=== Raw data ==="
+          ls -la data/raw/ 2>/dev/null || echo "No data/raw/"
+          echo "=== Docs ==="
+          ls -la docs/daily/ 2>/dev/null || echo "No docs/daily/"
+          echo "=== Summary ==="
+          cat data/raw/_summary.json 2>/dev/null || echo "No summary"
 
       - name: Commit and push data
         run: |
           git config --local user.email "opera-bot@users.noreply.github.com"
           git config --local user.name "Opera Daily Bot"
           git add -A
-          # 如果没有变更则跳过
           git diff --cached --quiet && echo "No changes to commit" || \
             git commit -m "🎭 daily: $(date +'%Y-%m-%d') opera report"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -55,5 +74,4 @@ jobs:
           path: 'docs'
 
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v4
