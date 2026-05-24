@@ -1,0 +1,120 @@
+{
+  "date": "2026-05-24",
+  "updated_at": "2026-05-24T01:44:50.206519",
+  "total_houses": 10,
+  "success_count": 10,
+  "error_count": 0,
+  "total_performances": 55,
+  "houses": [
+    {
+      "id": "metropolitan_opera",
+      "name": "纽约大都会歌剧院",
+      "name_en": "Metropolitan Opera",
+      "city": "纽约",
+      "country": "美国",
+      "performances_count": 0,
+      "updated_at": "2026-05-24T01:43:06.309698",
+      "elapsed_seconds": 0.42,
+      "status": "success"
+    },
+    {
+      "id": "la_scala",
+      "name": "米兰斯卡拉歌剧院",
+      "name_en": "Teatro alla Scala",
+      "city": "米兰",
+      "country": "意大利",
+      "performances_count": 0,
+      "updated_at": "2026-05-24T01:43:07.663813",
+      "elapsed_seconds": 1.35,
+      "status": "success"
+    },
+    {
+      "id": "wiener_staatsoper",
+      "name": "维也纳国家歌剧院",
+      "name_en": "Vienna State Opera",
+      "city": "维也纳",
+      "country": "奥地利",
+      "performances_count": 0,
+      "updated_at": "2026-05-24T01:44:39.448376",
+      "elapsed_seconds": 91.78,
+      "status": "success"
+    },
+    {
+      "id": "opera_national_de_paris",
+      "name": "巴黎歌剧院",
+      "name_en": "Opéra national de Paris",
+      "city": "巴黎",
+      "country": "法国",
+      "performances_count": 0,
+      "updated_at": "2026-05-24T01:44:39.800846",
+      "elapsed_seconds": 0.35,
+      "status": "success"
+    },
+    {
+      "id": "royal_opera_house",
+      "name": "英国皇家歌剧院",
+      "name_en": "Royal Opera House",
+      "city": "伦敦",
+      "country": "英国",
+      "performances_count": 0,
+      "updated_at": "2026-05-24T01:44:42.069427",
+      "elapsed_seconds": 2.27,
+      "status": "success"
+    },
+    {
+      "id": "bayreuth_festspielhaus",
+      "name": "拜罗伊特节日剧院",
+      "name_en": "Bayreuth Festspielhaus",
+      "city": "拜罗伊特",
+      "country": "德国",
+      "performances_count": 10,
+      "updated_at": "2026-05-24T01:44:42.861891",
+      "elapsed_seconds": 0.79,
+      "status": "success"
+    },
+    {
+      "id": "sydney_opera_house",
+      "name": "悉尼歌剧院",
+      "name_en": "Sydney Opera House",
+      "city": "悉尼",
+      "country": "澳大利亚",
+      "performances_count": 45,
+      "updated_at": "2026-05-24T01:44:46.467522",
+      "elapsed_seconds": 3.6,
+      "status": "success"
+    },
+    {
+      "id": "national_centre_for_the_performing_arts",
+      "name": "中国国家大剧院",
+      "name_en": "National Centre for the Performing Arts",
+      "city": "北京",
+      "country": "中国",
+      "performances_count": 0,
+      "updated_at": "2026-05-24T01:44:47.725694",
+      "elapsed_seconds": 1.25,
+      "status": "success"
+    },
+    {
+      "id": "salzburg_festival",
+      "name": "萨尔茨堡音乐节",
+      "name_en": "Salzburg Festival",
+      "city": "萨尔茨堡",
+      "country": "奥地利",
+      "performances_count": 0,
+      "updated_at": "2026-05-24T01:44:48.757413",
+      "elapsed_seconds": 1.03,
+      "status": "success"
+    },
+    {
+      "id": "teatro_real",
+      "name": "马德里皇家剧院",
+      "name_en": "Teatro Real",
+      "city": "马德里",
+      "country": "西班牙",
+      "performances_count": 0,
+      "updated_at": "2026-05-24T01:44:50.206282",
+      "elapsed_seconds": 1.45,
+      "status": "success"
+    }
+  ]
+}
