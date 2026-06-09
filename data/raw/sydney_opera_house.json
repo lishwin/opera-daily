@@ -7,48 +7,6 @@
   "url": "https://www.sydneyoperahouse.com",
   "performances": [
     {
-      "title": "ShelteringArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/bangarra-dance-theatre/sheltering",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "ShelteringArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/bangarra-dance-theatre/sheltering",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Sheltering",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/bangarra-dance-theatre/sheltering",
-      "language": "",
-      "duration": ""
-    },
-    {
       "title": "Lighting of the Sails: ‘Opera Mundi’ by Yann NguemaArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
@@ -129,6 +87,48 @@
       "cast": [],
       "description": "",
       "url": "https://www.sydneyoperahouse.com/bell-shakespeare/2026-season/mackenzie",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "ShelteringArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/bangarra-dance-theatre/sheltering",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "ShelteringArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/bangarra-dance-theatre/sheltering",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "Sheltering",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/bangarra-dance-theatre/sheltering",
       "language": "",
       "duration": ""
     },
@@ -637,5 +637,5 @@
       "duration": ""
     }
   ],
-  "updated_at": "2026-06-08T03:37:01.271467"
+  "updated_at": "2026-06-09T02:46:43.374306"
 }
