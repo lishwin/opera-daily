@@ -35,6 +35,20 @@
       "duration": ""
     },
     {
+      "title": "Choir Open Air in the Festival Park",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.bayreuther-festspiele.de/en/programm/auffuehrungen/chor-open-air/",
+      "language": "",
+      "duration": ""
+    },
+    {
       "title": "Rienzi",
       "composer": "",
       "date": "",
@@ -147,5 +161,5 @@
       "duration": ""
     }
   ],
-  "updated_at": "2026-06-11T03:35:15.032901"
+  "updated_at": "2026-06-12T03:34:21.005544"
 }
