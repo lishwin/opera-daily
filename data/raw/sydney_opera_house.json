@@ -7,7 +7,7 @@
   "url": "https://www.sydneyoperahouse.com",
   "performances": [
     {
-      "title": "Music Masters - A Musical VoyageArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "title": "Listen to This: Discover ElgarArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
       "time": "",
@@ -16,12 +16,12 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/classical-music/music-masters-musical-voyage",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/listen-to-this-discover-elgar",
       "language": "",
       "duration": ""
     },
     {
-      "title": "Music Masters - A Musical VoyageArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "title": "Listen to This: Discover ElgarArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
       "time": "",
@@ -30,12 +30,12 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/classical-music/music-masters-musical-voyage",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/listen-to-this-discover-elgar",
       "language": "",
       "duration": ""
     },
     {
-      "title": "Music Masters - A Musical Voyage",
+      "title": "Listen to This: Discover Elgar",
       "composer": "",
       "date": "",
       "time": "",
@@ -44,7 +44,7 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/classical-music/music-masters-musical-voyage",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/listen-to-this-discover-elgar",
       "language": "",
       "duration": ""
     },
@@ -87,48 +87,6 @@
       "cast": [],
       "description": "",
       "url": "https://www.sydneyoperahouse.com/experiences/badu-gili",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Listen to This: Discover ElgarArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/listen-to-this-discover-elgar",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Listen to This: Discover ElgarArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/listen-to-this-discover-elgar",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Listen to This: Discover Elgar",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/listen-to-this-discover-elgar",
       "language": "",
       "duration": ""
     },
@@ -635,7 +593,49 @@
       "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/benjamin-beilman-performs-mendelssohns-violin-concerto",
       "language": "",
       "duration": ""
+    },
+    {
+      "title": "Stelarc: Antipodean ApparatusArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/contemporary-music/stelarc-antipodean-apparatus",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "Stelarc: Antipodean ApparatusArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/contemporary-music/stelarc-antipodean-apparatus",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "Stelarc: Antipodean Apparatus",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/contemporary-music/stelarc-antipodean-apparatus",
+      "language": "",
+      "duration": ""
     }
   ],
-  "updated_at": "2026-06-29T03:31:44.907726"
+  "updated_at": "2026-06-30T02:56:40.108031"
 }
