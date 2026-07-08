@@ -49,7 +49,7 @@
       "duration": ""
     },
     {
-      "title": "Badu Gili: Story KeepersArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "title": "Pay No AttentionArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
       "time": "",
@@ -58,12 +58,12 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/experiences/badu-gili",
+      "url": "https://www.sydneyoperahouse.com/kids-families/pay-no-attention",
       "language": "",
       "duration": ""
     },
     {
-      "title": "Badu Gili: Story KeepersArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "title": "Pay No AttentionArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
       "time": "",
@@ -72,12 +72,12 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/experiences/badu-gili",
+      "url": "https://www.sydneyoperahouse.com/kids-families/pay-no-attention",
       "language": "",
       "duration": ""
     },
     {
-      "title": "Badu Gili: Story Keepers",
+      "title": "Pay No Attention",
       "composer": "",
       "date": "",
       "time": "",
@@ -86,7 +86,7 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/experiences/badu-gili",
+      "url": "https://www.sydneyoperahouse.com/kids-families/pay-no-attention",
       "language": "",
       "duration": ""
     },
@@ -133,6 +133,48 @@
       "duration": ""
     },
     {
+      "title": "Badu Gili: Story KeepersArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/experiences/badu-gili",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "Badu Gili: Story KeepersArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/experiences/badu-gili",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "Badu Gili: Story Keepers",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/experiences/badu-gili",
+      "language": "",
+      "duration": ""
+    },
+    {
       "title": "34th Australian International Music FestivalArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
@@ -171,48 +213,6 @@
       "cast": [],
       "description": "",
       "url": "https://www.sydneyoperahouse.com/classical-music/34th-australian-international-music-festival",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Pay No AttentionArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/kids-families/pay-no-attention",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Pay No AttentionArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/kids-families/pay-no-attention",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Pay No Attention",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/kids-families/pay-no-attention",
       "language": "",
       "duration": ""
     },
@@ -637,5 +637,5 @@
       "duration": ""
     }
   ],
-  "updated_at": "2026-07-07T02:44:45.880926"
+  "updated_at": "2026-07-08T02:22:44.536757"
 }
