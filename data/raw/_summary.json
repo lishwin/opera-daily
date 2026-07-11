@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-10",
-  "updated_at": "2026-07-10T02:38:13.041772",
+  "date": "2026-07-11",
+  "updated_at": "2026-07-11T02:13:45.377363",
   "total_houses": 10,
   "success_count": 10,
   "error_count": 0,
@@ -13,8 +13,8 @@
       "city": "纽约",
       "country": "美国",
       "performances_count": 0,
-      "updated_at": "2026-07-10T02:36:20.541291",
-      "elapsed_seconds": 0.58,
+      "updated_at": "2026-07-11T02:11:57.671217",
+      "elapsed_seconds": 0.46,
       "status": "success"
     },
     {
@@ -24,8 +24,8 @@
       "city": "米兰",
       "country": "意大利",
       "performances_count": 0,
-      "updated_at": "2026-07-10T02:36:22.453025",
-      "elapsed_seconds": 1.91,
+      "updated_at": "2026-07-11T02:11:59.132523",
+      "elapsed_seconds": 1.46,
       "status": "success"
     },
     {
@@ -35,8 +35,8 @@
       "city": "维也纳",
       "country": "奥地利",
       "performances_count": 0,
-      "updated_at": "2026-07-10T02:38:00.907300",
-      "elapsed_seconds": 98.45,
+      "updated_at": "2026-07-11T02:13:32.711976",
+      "elapsed_seconds": 93.58,
       "status": "success"
     },
     {
@@ -46,8 +46,8 @@
       "city": "巴黎",
       "country": "法国",
       "performances_count": 0,
-      "updated_at": "2026-07-10T02:38:01.406858",
-      "elapsed_seconds": 0.5,
+      "updated_at": "2026-07-11T02:13:33.130643",
+      "elapsed_seconds": 0.42,
       "status": "success"
     },
     {
@@ -57,8 +57,8 @@
       "city": "伦敦",
       "country": "英国",
       "performances_count": 0,
-      "updated_at": "2026-07-10T02:38:03.695053",
-      "elapsed_seconds": 2.29,
+      "updated_at": "2026-07-11T02:13:35.626784",
+      "elapsed_seconds": 2.49,
       "status": "success"
     },
     {
@@ -68,8 +68,8 @@
       "city": "拜罗伊特",
       "country": "德国",
       "performances_count": 11,
-      "updated_at": "2026-07-10T02:38:04.545867",
-      "elapsed_seconds": 0.85,
+      "updated_at": "2026-07-11T02:13:36.514366",
+      "elapsed_seconds": 0.89,
       "status": "success"
     },
     {
@@ -79,8 +79,8 @@
       "city": "悉尼",
       "country": "澳大利亚",
       "performances_count": 45,
-      "updated_at": "2026-07-10T02:38:08.129017",
-      "elapsed_seconds": 3.58,
+      "updated_at": "2026-07-11T02:13:40.693864",
+      "elapsed_seconds": 4.18,
       "status": "success"
     },
     {
@@ -90,8 +90,8 @@
       "city": "北京",
       "country": "中国",
       "performances_count": 0,
-      "updated_at": "2026-07-10T02:38:09.689800",
-      "elapsed_seconds": 1.56,
+      "updated_at": "2026-07-11T02:13:41.930708",
+      "elapsed_seconds": 1.23,
       "status": "success"
     },
     {
@@ -101,8 +101,8 @@
       "city": "萨尔茨堡",
       "country": "奥地利",
       "performances_count": 0,
-      "updated_at": "2026-07-10T02:38:11.004794",
-      "elapsed_seconds": 1.31,
+      "updated_at": "2026-07-11T02:13:43.520271",
+      "elapsed_seconds": 1.59,
       "status": "success"
     },
     {
@@ -112,8 +112,8 @@
       "city": "马德里",
       "country": "西班牙",
       "performances_count": 0,
-      "updated_at": "2026-07-10T02:38:13.041518",
-      "elapsed_seconds": 2.03,
+      "updated_at": "2026-07-11T02:13:45.377135",
+      "elapsed_seconds": 1.85,
       "status": "success"
     }
   ]
