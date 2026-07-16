@@ -7,48 +7,6 @@
   "url": "https://www.sydneyoperahouse.com",
   "performances": [
     {
-      "title": "YOU & ME and The Land of Lost ThingsArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/kids-families/you-me-and-land-lost-things",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "YOU & ME and The Land of Lost ThingsArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/kids-families/you-me-and-land-lost-things",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "YOU & ME and The Land of Lost Things",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/kids-families/you-me-and-land-lost-things",
-      "language": "",
-      "duration": ""
-    },
-    {
       "title": "MaaMaa and Nonna’s KitchenArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
@@ -91,7 +49,7 @@
       "duration": ""
     },
     {
-      "title": "MackenzieArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "title": "YOU & ME and The Land of Lost ThingsArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
       "time": "",
@@ -100,12 +58,12 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/bell-shakespeare/2026-season/mackenzie",
+      "url": "https://www.sydneyoperahouse.com/kids-families/you-me-and-land-lost-things",
       "language": "",
       "duration": ""
     },
     {
-      "title": "MackenzieArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "title": "YOU & ME and The Land of Lost ThingsArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
       "time": "",
@@ -114,12 +72,12 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/bell-shakespeare/2026-season/mackenzie",
+      "url": "https://www.sydneyoperahouse.com/kids-families/you-me-and-land-lost-things",
       "language": "",
       "duration": ""
     },
     {
-      "title": "Mackenzie",
+      "title": "YOU & ME and The Land of Lost Things",
       "composer": "",
       "date": "",
       "time": "",
@@ -128,7 +86,7 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/bell-shakespeare/2026-season/mackenzie",
+      "url": "https://www.sydneyoperahouse.com/kids-families/you-me-and-land-lost-things",
       "language": "",
       "duration": ""
     },
@@ -171,6 +129,48 @@
       "cast": [],
       "description": "",
       "url": "https://www.sydneyoperahouse.com/experiences/badu-gili",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "MackenzieArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/bell-shakespeare/2026-season/mackenzie",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "MackenzieArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/bell-shakespeare/2026-season/mackenzie",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "Mackenzie",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/bell-shakespeare/2026-season/mackenzie",
       "language": "",
       "duration": ""
     },
@@ -637,5 +637,5 @@
       "duration": ""
     }
   ],
-  "updated_at": "2026-07-15T02:03:48.561507"
+  "updated_at": "2026-07-16T02:12:28.215374"
 }
