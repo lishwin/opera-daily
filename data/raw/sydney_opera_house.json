@@ -7,7 +7,7 @@
   "url": "https://www.sydneyoperahouse.com",
   "performances": [
     {
-      "title": "Beethoven’s Emperor ConcertoArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "title": "Velvet InfernoArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
       "time": "",
@@ -16,12 +16,12 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-emperor-concerto",
+      "url": "https://www.sydneyoperahouse.com/musical-theatre-cabaret/velvet-inferno",
       "language": "",
       "duration": ""
     },
     {
-      "title": "Beethoven’s Emperor ConcertoArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "title": "Velvet InfernoArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
       "time": "",
@@ -30,12 +30,12 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-emperor-concerto",
+      "url": "https://www.sydneyoperahouse.com/musical-theatre-cabaret/velvet-inferno",
       "language": "",
       "duration": ""
     },
     {
-      "title": "Beethoven’s Emperor Concerto",
+      "title": "Velvet Inferno",
       "composer": "",
       "date": "",
       "time": "",
@@ -44,7 +44,7 @@
       "directors": [],
       "cast": [],
       "description": "",
-      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-emperor-concerto",
+      "url": "https://www.sydneyoperahouse.com/musical-theatre-cabaret/velvet-inferno",
       "language": "",
       "duration": ""
     },
@@ -91,90 +91,6 @@
       "duration": ""
     },
     {
-      "title": "RigolettoArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/rigoletto",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "RigolettoArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/rigoletto",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Rigoletto",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/rigoletto",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Velvet InfernoArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/musical-theatre-cabaret/velvet-inferno",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Velvet InfernoArrow Right 1 Streamline Icon: https://streamlinehq.com",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/musical-theatre-cabaret/velvet-inferno",
-      "language": "",
-      "duration": ""
-    },
-    {
-      "title": "Velvet Inferno",
-      "composer": "",
-      "date": "",
-      "time": "",
-      "venue": "",
-      "conductors": [],
-      "directors": [],
-      "cast": [],
-      "description": "",
-      "url": "https://www.sydneyoperahouse.com/musical-theatre-cabaret/velvet-inferno",
-      "language": "",
-      "duration": ""
-    },
-    {
       "title": "The Merry WidowArrow Right 1 Streamline Icon: https://streamlinehq.com",
       "composer": "",
       "date": "",
@@ -213,6 +129,48 @@
       "cast": [],
       "description": "",
       "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/merry-widow",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "Beethoven’s Emperor ConcertoArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-emperor-concerto",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "Beethoven’s Emperor ConcertoArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-emperor-concerto",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "Beethoven’s Emperor Concerto",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/sydney-symphony-orchestra/2026-season/beethoven-emperor-concerto",
       "language": "",
       "duration": ""
     },
@@ -339,6 +297,48 @@
       "cast": [],
       "description": "",
       "url": "https://www.sydneyoperahouse.com/classical-music/australian-festival-arts-and-music",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "RigolettoArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/rigoletto",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "RigolettoArrow Right 1 Streamline Icon: https://streamlinehq.com",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/rigoletto",
+      "language": "",
+      "duration": ""
+    },
+    {
+      "title": "Rigoletto",
+      "composer": "",
+      "date": "",
+      "time": "",
+      "venue": "",
+      "conductors": [],
+      "directors": [],
+      "cast": [],
+      "description": "",
+      "url": "https://www.sydneyoperahouse.com/opera-australia/2026-season/rigoletto",
       "language": "",
       "duration": ""
     },
@@ -637,5 +637,5 @@
       "duration": ""
     }
   ],
-  "updated_at": "2026-07-23T02:26:40.328948"
+  "updated_at": "2026-07-24T02:17:18.388156"
 }
